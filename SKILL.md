@@ -1,12 +1,10 @@
 ---
 name: free-association-ideation
-description: Generate creative ideas through rapid associative connections rather
-  than logical progression, following the energy of thought wherever it leads to discover
-  unexpected insights and novel combinations.
+description: Generate creative ideas through rapid associative connections rather than logical progression, following the energy of thought wherever it leads to discover unexpected insights and novel combinations.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - absurdist
 - comedy
